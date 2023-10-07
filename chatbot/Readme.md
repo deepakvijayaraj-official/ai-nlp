@@ -6,3 +6,10 @@ It involves integrating features specific to banking and financial services, suc
 Additionally, it should handle user authentication securely. 
 
 Replace the simulation code with actual banking logic and user authentication methods to make it functional in a real banking environment.
+
+You need to have associated packages installed as a Pre-requisite.
+```python
+pip install -r requirements.txt
+
+python3 bank_chatop.py
+```
